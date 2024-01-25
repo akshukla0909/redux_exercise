@@ -14,7 +14,8 @@ action: like task or meessege like  -- increse 1 item in cart
 payload : actual instruction
 
 reducer : function jo task krte hai
-createslice: piece of data
+createslice: piece of store
+
 
 
 
